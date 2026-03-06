@@ -10,9 +10,9 @@ from storage import load_state, save_state, add_context, list_chat_ids
 from commands import handle_command
 
 # ===== CONFIG =====
-TOKEN = "8582375123:AAESYz8UaFFqHRjn_12IYvW7-L-wf-6wOJ8"
+TOKEN = "YOUR_BOT_TOKEN_HERE"
 MODEL = "llama3:latest"
-ALLOWED_USERS = {5264776416}
+ALLOWED_USERS = {YOUR_USER_ID}
 # ==================
 
 TZ = ZoneInfo("Asia/Jerusalem")
