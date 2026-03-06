@@ -169,6 +169,14 @@ TOKEN = "YOUR_BOT_TOKEN_HERE"
 ALLOWED_USERS = {YOUR_USER_ID}
 ```
 
+How to get them:
+
+• Bot Token:
+Create a new bot using @BotFather on Telegram → /newbot → copy the token.
+
+• User ID:
+Message @userinfobot on Telegram to get your numeric user ID.
+
 ---
 
 # Running the Bot
