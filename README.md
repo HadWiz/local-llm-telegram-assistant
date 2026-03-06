@@ -173,16 +173,16 @@ ALLOWED_USERS = {YOUR_USER_ID}
 
 # Running the Bot
 
-Activate your Python virtual environment:
-
-```bash
-source ~/tg_local_llm/venv/bin/activate
-```
-
 Navigate to the bot directory:
 
 ```bash
-cd ~/tg_local_llm/tg_local_llm
+cd local-llm-telegram-assistant
+```
+
+Activate the virtual environment
+
+```bash
+source venv/bin/activate
 ```
 
 Start the assistant:
