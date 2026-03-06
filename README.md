@@ -188,14 +188,6 @@ To get your Telegram numeric user ID:
 2. Start the bot
 3. It will reply with your **numeric user ID**
 
-How to get them:
-
-• Bot Token:
-Create a new bot using @BotFather on Telegram → /newbot → copy the token.
-
-• User ID:
-Message @userinfobot on Telegram to get your numeric user ID.
-
 ---
 
 # Running the Bot
