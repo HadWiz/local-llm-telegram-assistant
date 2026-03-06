@@ -140,7 +140,7 @@ Core components:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/local-llm-telegram-assistant.git
+git clone https://github.com/HadWiz/local-llm-telegram-assistant.git
 cd local-llm-telegram-assistant
 ```
 
